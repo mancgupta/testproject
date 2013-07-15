@@ -1,4 +1,4 @@
 testproject
 ===========
 
-just for testing purpost
+just for testing purpose
